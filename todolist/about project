@@ -1,0 +1,51 @@
+ Todolist Project
+
+### About the Project
+
+This is a **Todolist web page** built using **HTML and CSS**. The goal of this project is to create a visually appealing page that motivates users to complete daily tasks.
+
+The background image sets a calm tone, and the content is structured with headings, motivational text, and a call-to-action button.
+
+---
+
+### 🎯 Features
+
+* 📌 Attractive **background image** with full-page layout.
+* 🎨 Clean and simple **CSS styling** with Roboto font.
+* 📝 Motivational text encouraging users to achieve daily goals.
+* 📚 Example task → **Read a Book**.
+* 🔘 A **Start button** in the center to inspire action.
+* 📖 Closing note → *“Don’t skip introduction”* to remind users to stay disciplined.
+
+---
+
+### 🛠️ Tech Stack
+
+* **HTML5** → for structure.
+* **CSS3** → for styling and layout.
+
+---
+
+### 📷 Preview
+
+The webpage displays:
+
+* A main heading → “****Todolist****”
+* A subheading → “Each day I will accomplish one thing on my todo list.”
+* A mini heading → “Read a Book”
+* Motivational paragraph from Stephen Hawking about the survival of humanity.
+* A bold **Start button** to begin.
+* A closing note → *Don’t skip introduction*.
+
+---
+
+### 🚀 Purpose
+
+This project was created as part of **HTML & CSS practice projects** to strengthen web development skills. It demonstrates:
+
+* How to use **background images** in CSS.
+* How to style headings, paragraphs, and buttons.
+* How to organize text with proper alignment.
+
+---
+
