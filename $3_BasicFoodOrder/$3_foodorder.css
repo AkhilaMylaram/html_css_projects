@@ -1,0 +1,42 @@
+.bg{
+    background-image: url(" https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height:150vh;
+    width:80vw;
+    font-family: "Roboto";
+} 
+.card-container{
+    height:40vh;
+    width:80vw;
+    background-color: #f6c56e;
+    padding:30px;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+.heading{
+    color:#323f4b;
+    font-size:45px;
+    font-family: Bree Serif;
+    font-style:italic;
+    font-weight: bold;;
+
+}
+.disco{
+    font-size:35px;
+     color:#323f4b;
+     font-family: Bree Serif;
+     font-style:italic;
+     font-weight:600px;
+
+}
+.btn-style{
+    background-color: white;
+    border-radius: 5px;
+    color:#323f4b;
+    font-size:15px;
+    padding:10px;
+    font-family: Bree Serif;
+    
+    border-radius:10px;
+
+}
