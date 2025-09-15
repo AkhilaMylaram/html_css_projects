@@ -1,0 +1,31 @@
+
+# 🔹 HTML Elements I Used
+
+* **`<html>`** → Root element of the document.
+* **`<head>`** → Contains metadata and links CSS files.
+* **`<link>`** → Connects external CSS file and Bootstrap.
+* **`<body>`** → Contains visible content.
+* **`<div>`** → Background container (`.bg`) and card container (`.card-container`).
+* **`<h1>`** → Main heading (“Advanced Technologies”).
+* **`<p>`** → Description under the heading.
+* **`<button>`** → Call-to-action buttons (“Learn More” and “Save Draft”).
+
+---
+
+# 🔹 CSS Properties I Used
+
+* **`background-image`** → Sets the hero section background.
+* **`background-size`** → Ensures background covers the container fully.
+* **`height` / `width`** → Controls size of background and card containers.
+* **`font-family`** → Applies custom fonts like Roboto and Bree Serif.
+* **`font-size`** / **`font-style`** / **`font-weight`** → Styles headings and description.
+* **`color`** → Sets text color for heading, description, and buttons.
+* **`padding`** → Adds spacing inside card container and buttons.
+* **`margin`** → Adds spacing between buttons and elements.
+* **`border-radius`** → Rounds corners of card container and buttons.
+* **Bootstrap Flex (`d-flex`, `flex-column`, `flex-row`, `justify-content-end`)** → Positions card at the bottom and arranges buttons horizontally.
+* **`background-color`** → Colors card container and buttons for contrast.
+
+---
+
+
