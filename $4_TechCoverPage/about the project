@@ -1,0 +1,23 @@
+Advanced Technologies Cover Page
+
+This project is a cover page for a website showcasing advanced technologies. It features a hero section with a background image, a card container with heading, description, and two call-to-action buttons (“Learn More” and “Save Draft”). The design focuses on a clean and professional layout with custom fonts, styled buttons, and modern color scheme.
+
+Features
+
+Full-page background image for visual appeal.
+
+Card container positioned at the bottom of the hero section.
+
+Headings and description styled with custom fonts and italicized text.
+
+Two call-to-action buttons with distinct colors for interaction.
+
+Uses Bootstrap flex utilities (d-flex, flex-column, flex-row, justify-content-end) for layout and responsiveness.
+
+Technologies Used
+
+HTML – Structure of the cover page.
+
+CSS – Styling for background, card container, text, and buttons.
+
+Bootstrap 4 – Flexbox utilities for positioning and layout
