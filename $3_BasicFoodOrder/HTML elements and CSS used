@@ -1,0 +1,30 @@
+
+
+# 🔹 HTML Elements I Used
+
+* **`<html>`** → Root element of the document.
+* **`<head>`** → Contains metadata and links CSS files.
+* **`<link>`** → Connects external CSS file and Bootstrap.
+* **`<body>`** → Contains all visible content.
+* **`<div>`** → Used for background container (`.bg`) and card container (`.card-container`).
+* **`<h1>`** → Displays main heading (“Happy Meals”).
+* **`<p>`** → Displays description text under the heading.
+* **`<button>`** → Call-to-action “Book Now” button.
+
+---
+
+# 🔹 CSS Properties I Used
+
+* **`background-image`** → Sets hero section background.
+* **`background-size`** → Ensures the background covers the container fully.
+* **`height` / `width`** → Controls size of background and card containers.
+* **`font-family`** → Applies custom fonts like Roboto and Bree Serif.
+* **`font-size`** / **`font-style`** / **`font-weight`** → Styles heading and description.
+* **`color`** → Sets text color for heading, description, and button.
+* **`padding`** → Adds spacing inside card container and button.
+* **`border-radius`** → Rounds corners of card container and button.
+* **Bootstrap Flex (`d-flex`, `flex-column`, `justify-content-end`)** → Positions the card at the bottom of the page.
+* **`background-color`** → Colors the card container and button for contrast.
+
+---
+
