@@ -1,0 +1,47 @@
+.bg{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height:150vh;
+    width:100vw;
+    font-family: "Roboto";
+}
+.card-container{
+    height:50vh;
+    width:100vw;
+    background-color: white;
+    border-top-right-radius: 15px;
+    border-top-left-radius:15px;
+    padding:40px;
+
+}
+.main-head{
+    font-size:45px;
+    color:#5752ab;
+    font-family: Bree Serif;
+    font-style:italic;
+    font-weight:bold;
+}
+.des{
+    font-size:30px;
+    color:#323f4b;
+    font-style:italic;
+
+}
+.learn{
+background-color: white;
+padding:10px;
+margin:30px;
+font-size:20px;
+
+border-radius: 10px;
+}
+.save{
+background-color: #171f46;
+padding:10px;
+
+font-size:20px;
+
+margin:30px;
+border-radius: 10px;
+color:white;
+}
