@@ -1,0 +1,5 @@
+🍔 Food Order Landing Page
+
+This project is a food order landing page designed to showcase a restaurant or food service. It features a hero section with a background image, a card container displaying the brand name, description, and a call-to-action button. The design uses custom fonts, styled headings, and a modern color scheme to create an attractive interface.
+
+It also uses Bootstrap flex utilities to position the card container at the bottom of the page for a professional look.
