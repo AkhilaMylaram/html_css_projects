@@ -1,0 +1,19 @@
+Chat Page UI
+
+A simple chat interface web page built using HTML and CSS, showcasing a conversation between two people. The project focuses on designing a clean, responsive chat layout with styled messages for sent and received texts.
+
+Features
+
+Realistic chat interface layout.
+
+Different styling for sent and received messages.
+
+Background image for enhanced visual appeal.
+
+Easy to customize for any conversation.
+
+Technologies Used
+
+HTML – Structure of the chat page.
+
+CSS – Styling messages, background, and layout.
