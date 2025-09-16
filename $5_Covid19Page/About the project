@@ -1,0 +1,35 @@
+
+📝 About the Project
+
+This project is a simple static web page built using HTML, CSS, and Bootstrap to spread awareness about COVID-19.
+It provides quick information on:
+
+What COVID-19 is
+
+Symptoms to watch for
+
+A COVID-19 test section
+
+A video guide to prevent the spread
+
+The page is designed with cards, buttons, and responsive sections, making it easy to read and visually engaging.
+
+🎯 Features
+
+✅ Top Section → Heading, description, and "Know More" button with an illustration
+
+✅ COVID-19 Test Section → Information card with icon and description
+
+✅ Symptoms Section → Icons with text (Dry Cough, High Fever, Headache)
+
+✅ Videos Section → Doctor illustration with title, description, and "Watch Video" button
+
+✅ Styled with CSS + Bootstrap for layout, spacing, and responsiveness
+
+🛠️ Technologies Used
+
+HTML5 → Structure of the page
+
+CSS3 → Custom styling for sections
+
+Bootstrap 4 → Flexbox utilities for responsive layout
