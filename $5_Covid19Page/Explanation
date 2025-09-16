@@ -1,0 +1,45 @@
+
+---
+
+### 🔹 Step 1 – Start with a Brief Introduction
+
+*"I have built a COVID-19 Awareness web page using HTML, CSS, and Bootstrap. The idea of the project is to present important information about COVID-19, such as test details, symptoms, and prevention tips, in a simple and visually clear format."*
+
+---
+
+### 🔹 Step 2 – Explain the Structure (HTML part)
+
+\*"I used HTML5 to create the structure of the page. The page is divided into different sections:
+
+* A **top section** with the main heading, an illustration, and a ‘Know More’ button.
+* A **COVID-19 Test section** that gives a short description with an icon.
+* A **Symptoms section** with cards showing common symptoms like dry cough, high fever, and headache.
+* A **Videos section** that includes a title, description, doctor image, and a ‘Watch Video’ button.
+  For this I used basic HTML elements such as headings (`<h1>, <h2>`), paragraphs (`<p>`), images (`<img>`), buttons (`<button>`), and containers (`<div>`)."\*
+
+---
+
+### 🔹 Step 3 – Explain Styling (CSS part)
+
+\*"For styling, I used **CSS3** along with **Bootstrap flex utilities** for layout.
+
+* I applied **background colors, borders, and rounded corners** to create card-like sections.
+* Used **flexbox** (`d-flex`, `flex-row`, `flex-column`) to align elements horizontally and vertically.
+* Managed spacing with **margin, padding, and gap**.
+* Set dimensions for images and buttons with **height and width**.
+  This gave the project a clean and responsive design."\*
+
+---
+
+### 🔹 Step 4 – Talk About Learning Outcomes
+
+*"From this project, I learned how to structure a web page properly using semantic HTML, how to style elements consistently using CSS, and how Bootstrap’s flexbox utilities can simplify responsive layouts. It also helped me understand the importance of designing user-friendly interfaces."*
+
+---
+
+### 🔹 Step 5 – Conclude Professionally
+
+*"Overall, this project helped me strengthen my **frontend development skills** and taught me how to combine HTML, CSS, and Bootstrap effectively to build simple yet informative web pages."*
+
+---
+
