@@ -1,0 +1,29 @@
+The motto of this project is to provide a simple, visually appealing, and interactive tourism guide where users can explore India’s famous tourist destinations. It is designed to demonstrate frontend development skills using HTML, CSS, JavaScript, and Bootstrap, while also focusing on responsive design and user experience.
+
+This project helps beginners understand how to structure a multi-section website with navigation, image carousels, styled layouts, and interactive buttons for switching between sections.
+
+✨ Features
+
+Homepage → Welcomes users with a background image and "Get Started" button.
+
+Favourite Places Section → Displays a list of famous Indian landmarks (Taj Mahal, Golden Temple, Mysore Palace, Varanasi Temple) with images and descriptions.
+
+Detailed View Pages → Each place has a separate page with:
+
+Image carousel (slideshow of multiple images).
+
+Brief description and history.
+
+Back button to return to the previous section.
+
+Interactive Navigation → Built using JavaScript functions to show/hide different sections without reloading the page.
+
+Styling with Bootstrap & CSS → For layout, alignment, and responsiveness.
+
+🛠️ Technologies Used
+
+HTML5 → Structure of the website.
+
+CSS3 → Styling and background images.
+
+Bootstrap 4 → Responsive design, carousels, and utility classes.
