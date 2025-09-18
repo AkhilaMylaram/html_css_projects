@@ -1,0 +1,32 @@
+\*\*"I developed a Tourism Website project using HTML, CSS, and Bootstrap.
+The main purpose of this project is to showcase different tourist destinations in an attractive and user-friendly way.
+I divided the website into multiple sections to make the navigation smooth and structured.
+The first section is the **Landing Page**, where I used a background image along with a 'Get Started' button. 
+This section works like the entry point of the website and immediately grabs the user’s attention with visuals.
+
+The second section is the **Favourite Places section**. 
+Here, I displayed a set of popular tourist places using cards that contain images, headings, and short descriptions.
+This section gives a quick overview of different destinations so that users can explore them at a glance.
+
+The next part is the **Detailed View section**, where I provided more complete information about a particular tourist place.
+In this section, the images are larger and the description is more detailed, 
+so users can learn more about the history or specialty of that place.
+
+Apart from these, I also included a **Bootstrap Carousel section**. 
+This is basically a slideshow of images that makes the website more interactive and visually appealing.
+Users can click on the navigation arrows or dots to view multiple pictures of tourist spots.
+
+For smooth navigation, I used **buttons** like Back, Home, and Get Started.
+Each button is connected to a small JavaScript function that switches between sections, so users don’t have to scroll manually. 
+This gives the feeling of a small web application rather than just a static page.
+
+From the styling point of view, I applied **CSS properties** like background images, text colors, font styles, padding, and margin to make the layout neat. 
+I also used **Bootstrap’s grid system and flexbox utilities** to arrange the content in a responsive way, so the website looks good on both desktops and mobile screens.
+
+Through this project, I learned how to structure content properly using HTML, how to style elements with CSS, and 
+how to take advantage of Bootstrap components like carousels, flexbox, and responsive design. More importantly, 
+I understood how to divide a project into sections, make navigation simple, and focus on user experience.
+Overall, this project not only improved my technical skills but also gave me confidence to build professional-looking websites."\*\*
+
+---
+
