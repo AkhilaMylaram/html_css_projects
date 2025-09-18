@@ -1,0 +1,109 @@
+.homebg{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg");
+    min-height:100vh;
+    width:50vw;
+    background-size: cover;
+    
+}
+.homecard{
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height:30vh;
+    width:50vw;
+    position: absolute;
+    text-align: center;
+    font-family: "Roboto";
+}
+.home-h{
+    font-size:50px ;
+    font-weight:500;
+}
+.home-p{
+    font-size:30px ;
+}
+.home-btn{
+color: white;
+  background-color: #25b1cc;
+  width: 150px;
+  height: 40px;
+  border-width: 0px;
+  border-radius: 20px;
+  font-size:medium;
+}
+.favbg{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/towerbg.png");
+    width:50vw;
+    height:150vh;
+    background-size: cover;
+
+}
+.fav-title{
+    color:white;
+    font-size: 35px;
+    text-align: center;
+    font-family: "Roboto";
+    padding:30px;
+    font-weight:550;
+    text-align: start;
+}
+.fav-box{
+    background-color: white;
+    margin:20px;
+     padding:10px;
+     border-radius:8px;;
+
+}
+.fav-h{
+font-family: "Roboto";
+font-size: 30px;
+font-weight:550;
+color:black;
+padding:5px;
+}
+.fav-p{
+font-family: "Roboto";
+font-size: 15px;
+color:black;
+padding:5px;
+}
+.fav-img{
+    height:25vh;
+    width:10vw;
+    padding:10px;
+}
+.deet-bg{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/seabg.png");
+    min-height: 130vh;
+     background-size: cover;
+     width:50vw;
+}
+.deet-title{
+     color:white;
+    font-size: 35px;
+    text-align: center;
+    font-family: "Roboto";
+    padding:30px;
+    font-weight:550;
+    text-align: start;
+}
+.deet-box{
+    background-color: white;
+    margin:30px;
+    padding:5px;
+
+}
+.deet-h{
+    color: black;
+    font-size: 30px;
+    text-align: start;
+   
+
+
+}
+.deet-p{
+    color: black;
+    font-size: 18px;
+    text-align: start;
+    text-align:justify;
+}
