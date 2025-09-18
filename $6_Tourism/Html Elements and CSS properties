@@ -1,0 +1,90 @@
+
+# 📄 HTML & CSS Documentation – Tourism Website
+
+This document explains all the **HTML elements** and **CSS properties** used in the Tourism Website project.
+
+---
+
+## 🏗️ HTML Elements Used
+
+### 1. Structural Elements
+
+* `<!DOCTYPE html>` → Defines HTML5 document type.
+* `<html>` → Root element of the page.
+* `<head>` → Holds metadata, stylesheets, and scripts.
+* `<body>` → Contains all visible webpage content.
+* `<div>` → Used extensively as **containers** for grouping and styling content.
+
+### 2. Head & Linking
+
+* `<link>` → Imports external CSS (Bootstrap & custom stylesheet).
+* `<script>` → Loads JavaScript files (Bootstrap JS, jQuery, custom scripts).
+* `<title>` → (Optional) Sets the title of the web page.
+
+### 3. Text Content
+
+* `<h1>` → Main headings (e.g., "Tourism", "Favourite Places", "Detailed View").
+* `<p>` → Paragraph text (descriptions of tourist places).
+
+### 4. Interactive Elements
+
+* `<button>` → Used for navigation (Get Started, Back buttons, etc.).
+* `onclick` attribute → Calls JavaScript functions to switch sections (`display('sectionid')`).
+
+### 5. Images
+
+* `<img>` → Displays place images and carousel slides with `src`, `alt`, and `class` attributes.
+
+### 6. Bootstrap Components
+
+* `<div class="carousel ...">` → Bootstrap **carousel (slideshow)** component.
+* `<ol>` & `<li>` → Indicators for carousel navigation.
+* `<a>` → Carousel navigation controls (Next, Previous).
+* `<span>` → Icons for carousel controls.
+
+---
+
+## 🎨 CSS Properties Used
+
+### 1. Background Styling
+
+* `background-image` → Adds background images (`ocean.jpg`, `towerbg.png`, `seabg.png`).
+* `background-size: cover;` → Ensures the image covers the entire container.
+* `background-color` → Sets background color (used for cards and buttons).
+
+### 2. Box Model
+
+* `min-height`, `height`, `width` → Controls element dimensions.
+* `margin` → Creates space around elements.
+* `padding` → Creates space inside elements.
+* `border-radius` → Rounds the corners of cards and buttons.
+* `border-width` → Removes or customizes borders (used on buttons).
+
+### 3. Typography
+
+* `font-family: "Roboto";` → Sets the text font.
+* `font-size` → Defines text size (50px for headings, 18px for details, etc.).
+* `font-weight` → Makes text bold (e.g., headings).
+* `color` → Sets text color (white/black).
+* `text-align` → Aligns text (`center`, `start`, `justify`).
+
+### 4. Flexbox (Bootstrap + Custom)
+
+* `display: flex;` (`d-flex`) → Enables flexible box layout.
+* `flex-direction: column` / `row` → Defines arrangement direction.
+* `justify-content: end` → Aligns items horizontally or vertically.
+
+### 5. Image Styling
+
+* `height`, `width` → Adjust image dimensions.
+* `padding` → Adds spacing inside image containers.
+
+### 6. Button Styling
+
+* `color` → Sets text color on buttons (white).
+* `background-color: #25b1cc;` → Custom button background (blue).
+* `width`, `height` → Defines button size.
+* `border-radius: 20px;` → Rounded button edges.
+* `font-size: medium;` → Adjusts button text size.
+
+---
